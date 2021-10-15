@@ -15,6 +15,7 @@
 		32B06D3326F3628800EA3EE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32B06D3126F3628800EA3EE3 /* LaunchScreen.storyboard */; };
 		32B06D3E26F3628900EA3EE3 /* P5_Word_ScrambleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32B06D3D26F3628900EA3EE3 /* P5_Word_ScrambleTests.swift */; };
 		32B06D4926F3628900EA3EE3 /* P5_Word_ScrambleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32B06D4826F3628900EA3EE3 /* P5_Word_ScrambleUITests.swift */; };
+		32B06D5726F3684B00EA3EE3 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32B06D5626F3684B00EA3EE3 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		32B06D4426F3628900EA3EE3 /* P5.Word ScrambleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "P5.Word ScrambleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		32B06D4826F3628900EA3EE3 /* P5_Word_ScrambleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P5_Word_ScrambleUITests.swift; sourceTree = "<group>"; };
 		32B06D4A26F3628900EA3EE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32B06D5626F3684B00EA3EE3 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				32B06D2F26F3628800EA3EE3 /* Assets.xcassets */,
 				32B06D3126F3628800EA3EE3 /* LaunchScreen.storyboard */,
 				32B06D3426F3628800EA3EE3 /* Info.plist */,
+				32B06D5626F3684B00EA3EE3 /* start.txt */,
 			);
 			path = "P5.Word Scramble";
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				32B06D3326F3628800EA3EE3 /* LaunchScreen.storyboard in Resources */,
+				32B06D5726F3684B00EA3EE3 /* start.txt in Resources */,
 				32B06D3026F3628800EA3EE3 /* Assets.xcassets in Resources */,
 				32B06D2E26F3628600EA3EE3 /* Main.storyboard in Resources */,
 			);
